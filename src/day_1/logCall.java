@@ -4,3 +4,5 @@ public class logCall {
     // user can call
 
 }
+
+// new line 
